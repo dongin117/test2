@@ -1086,8 +1086,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rEifhWSW6j {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/kakaotalk-20191024-170652992-3-1920x588.jpg");
 }
 .cid-rEifhWSW6j h2 {
@@ -1382,17 +1382,19 @@ section.lazy-placeholder:after {
 .cid-rF3Ou7Be8W {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/kakaotalk-20191028-204730099-1920x702.jpg");
 }
 .cid-rF3Ou7Be8W .form-control,
 .cid-rF3Ou7Be8W .form-control:focus {
   background: #ffffff;
-  border: 1px solid #ffffff;
+  border: 1px solid #ff8767;
 }
 .cid-rF3Ou7Be8W .form-container {
   transition: all .2s;
-  border: 1px solid #ffffff;
+  border: 1px solid #ff8767;
   padding: 1rem;
+  background: linear-gradient(#b0a792, #6bb9b3);
+  border: none;
 }
 .cid-rF3Ou7Be8W textarea.form-control {
   min-height: 188px;
