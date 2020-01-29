@@ -652,6 +652,9 @@ section.lazy-placeholder:after {
     opacity: 1;
   }
 }
+.cid-rNOoJ9lWPC .mbr-section-title {
+  text-align: left;
+}
 .cid-rNOAffCbCv {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -886,19 +889,19 @@ section.lazy-placeholder:after {
   align-items: center;
   transition: all 0.3s;
   transition-delay: 0s;
-  background-image: url("../../../assets/images/kakaotalk-20200123-113450934-5-2000x1125.jpg");
+  background-image: url("../../../assets/images/-222x-510x319.png");
   background-position: center;
   background-size: cover;
   z-index: 3;
 }
 .cid-rpSdrHNrVV .block2 {
-  background-image: url("../../../assets/images/karl-pawlowicz-gbraa67fepo-unsplash-5-2000x2500.jpeg");
+  background-image: url("../../../assets/images/-222x-510x319.png");
 }
 .cid-rpSdrHNrVV .block2:hover .block2-over {
   opacity: 0;
 }
 .cid-rpSdrHNrVV .block1 {
-  background-image: url("../../../assets/images/kakaotalk-20200123-113450934-5-2000x1125.jpeg");
+  background-image: url("../../../assets/images/-222x-510x319.png");
 }
 .cid-rpSdrHNrVV .block1:hover .block1-over {
   opacity: 0;
@@ -1370,13 +1373,16 @@ section.lazy-placeholder:after {
 }
 .cid-rObXCjyLu5 H1 {
   color: #232323;
+  text-align: left;
 }
 .cid-rObXCjyLu5 .mbr-text,
 .cid-rObXCjyLu5 .mbr-section-btn {
   color: #333333;
+  text-align: left;
 }
 .cid-rObXCjyLu5 H3 {
   color: #333333;
+  text-align: left;
 }
 @media (min-width: 767px) {
   .cid-rObXCjyLu5 .container {
@@ -1533,6 +1539,9 @@ section.lazy-placeholder:after {
     margin: auto;
   }
 }
+.cid-rNOCno5uS3 H3 {
+  text-align: center;
+}
 .cid-rOhcIwz0cz {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1589,6 +1598,9 @@ section.lazy-placeholder:after {
   .cid-rOhcIwz0cz .number {
     margin: auto;
   }
+}
+.cid-rOhcIwz0cz H3 {
+  text-align: left;
 }
 .cid-rOhcJAiSLY {
   padding-top: 0px;
@@ -1679,6 +1691,9 @@ section.lazy-placeholder:after {
 .cid-rOhcJAiSLY .mbr-text {
   color: #767676;
 }
+.cid-rOhcJAiSLY H3 {
+  text-align: center;
+}
 .cid-rO6qQHkmQc {
   padding-top: 120px;
   padding-bottom: 75px;
@@ -1714,6 +1729,7 @@ section.lazy-placeholder:after {
 }
 .cid-rO6qQHkmQc H3 {
   color: #333333;
+  text-align: left;
 }
 @media (min-width: 767px) {
   .cid-rO6qQHkmQc .container {
@@ -3190,6 +3206,7 @@ section.lazy-placeholder:after {
 }
 .cid-rNDoIQBA83 H1 {
   color: #333333;
+  text-align: left;
 }
 .cid-rNDoIQBA83 .mbr-text,
 .cid-rNDoIQBA83 .mbr-section-btn {
@@ -3197,6 +3214,7 @@ section.lazy-placeholder:after {
 }
 .cid-rNDoIQBA83 H3 {
   color: #333333;
+  text-align: left;
 }
 @media (min-width: 767px) {
   .cid-rNDoIQBA83 .container {
